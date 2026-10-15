@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Shoaib 👋
 
-### Aspiring Data Analyst | Python | SQL | Power BI | Excel
+### Aspiring Data Analyst | Python | SQL | Power BI |AI in Excel
 
 I'm a BCA graduate from Gulbarga University interested in transforming raw data into meaningful insights that support business decisions. I enjoy exploring datasets, identifying trends, and building clear visualizations and dashboards.
 

@@ -26,7 +26,7 @@ Explored movies and TV show data to investigate content distribution, genres, re
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab
 
-[View Project on GitHub](https://github.com/mohammedshoaib3146-collab/EDA-project-on-Amazon-Prime-Video)
+[View Project on GitHub](https://github.com/mohammedshoaib3146-collab/EDA-project-on-Amazon-Prime-Video..git)
 
 ### 2. McKinsey AI Market Research Engine
 
